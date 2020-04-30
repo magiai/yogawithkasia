@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a2444eb-0ad4-43ae-ab05-4ed1bca74e30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/blog/BlogDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/components/FigureBg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/img/main/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/img/main/asana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/img/main/donkey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/abstracts/_reusables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/containers/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/expenditures/ExpenditureAdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/expenditures/ExpenditureDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/expenditures/ExpenditureList.js" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/blog/BlogList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/src/img/logo/logo.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/yogaclient" />
+  </component>
+  <component name="ProjectId" id="1acbgCI5PnsoglP0CQmex9aT3fe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yogaclient/src/img/main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\img\main" />
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\img\main" />
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\containers" />
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\img\logo" />
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\styles" />
+      <recent name="C:\Serwer\WWW\yogawithkasia\yogaclient\src\img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a2444eb-0ad4-43ae-ab05-4ed1bca74e30" name="Default Changelist" comment="" />
+      <created>1587037937775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587037937775</updated>
+      <workItem from="1587037941672" duration="44282000" />
+      <workItem from="1587376977391" duration="152823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2727" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587122850973">
+      <screen x="2048" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2727" y="311" key="#com.intellij.fileTypes.FileTypeChooser/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587122850973" />
+    <state x="2818" y="278" key="FileChooserDialogImpl" timestamp="1587132522603">
+      <screen x="2048" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2818" y="278" key="FileChooserDialogImpl/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587132522603" />
+    <state x="653" y="101" width="627" height="852" key="find.popup" timestamp="1587464543870">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="653" y="101" width="627" height="852" key="find.popup/2048.0.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1587464543870" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588151725076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588151725076" />
+    <state x="2664" y="240" key="run.anything.popup/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587550562821" />
+    <state x="697" y="247" width="717" height="725" key="search.everywhere.popup" timestamp="1587464851372">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="697" y="247" width="717" height="725" key="search.everywhere.popup/2048.0.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1587464851372" />
+    <state x="2701" y="231" width="672" height="678" key="search.everywhere.popup/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587139010888" />
+  </component>
+</project>
