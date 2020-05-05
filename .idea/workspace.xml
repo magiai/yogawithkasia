@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/yogaclient/src/components/FigureBg.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/components/Footer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/components/MobileMenu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/About.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Hero.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Navbar.js" afterDir="false" />
@@ -20,6 +21,9 @@
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_grid.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_hero.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yogaclient" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yogaclient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yogaclient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yogaclient/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/public/favicon.ico" afterDir="false" />
@@ -99,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587037937775</updated>
       <workItem from="1587037941672" duration="44282000" />
-      <workItem from="1587376977391" duration="152823000" />
+      <workItem from="1587376977391" duration="186885000" />
     </task>
     <servers />
   </component>
@@ -119,10 +123,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="653" y="101" width="627" height="852" key="find.popup/2048.0.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1587464543870" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1588151725076">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588690215769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588151725076" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588690215769" />
     <state x="2664" y="240" key="run.anything.popup/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587550562821" />
     <state x="697" y="247" width="717" height="725" key="search.everywhere.popup" timestamp="1587464851372">
       <screen x="0" y="0" width="2048" height="1112" />
