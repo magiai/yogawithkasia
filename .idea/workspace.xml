@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/yogaclient/src/components/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/components/MobileMenu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Classes.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Hero.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/containers/Navbar.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/img/main/about.jpg" afterDir="false" />
@@ -21,7 +22,6 @@
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_grid.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_hero.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yogaclient" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yogaclient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yogaclient/package-lock.json" afterDir="false" />
@@ -103,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587037937775</updated>
       <workItem from="1587037941672" duration="44282000" />
-      <workItem from="1587376977391" duration="186885000" />
+      <workItem from="1587376977391" duration="193811000" />
     </task>
     <servers />
   </component>
