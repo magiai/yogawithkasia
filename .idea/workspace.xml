@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/abstracts/_variables.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/base/_base.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_classes.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_global.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_grid.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yogaclient/src/styles/layout/_hero.scss" afterDir="false" />
@@ -65,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/yogaclient/src/img/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -103,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587037937775</updated>
       <workItem from="1587037941672" duration="44282000" />
-      <workItem from="1587376977391" duration="193811000" />
+      <workItem from="1587376977391" duration="224692000" />
+      <workItem from="1591170095854" duration="26498000" />
     </task>
     <servers />
   </component>
@@ -111,14 +113,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2727" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587122850973">
-      <screen x="2048" y="0" width="1920" height="1040" />
+    <state x="679" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591189240498">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="679" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591189240498" />
     <state x="2727" y="311" key="#com.intellij.fileTypes.FileTypeChooser/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587122850973" />
-    <state x="2818" y="278" key="FileChooserDialogImpl" timestamp="1587132522603">
+    <state x="2818" y="278" key="FileChooserDialogImpl" timestamp="1592312002462">
       <screen x="2048" y="0" width="1920" height="1040" />
     </state>
-    <state x="2818" y="278" key="FileChooserDialogImpl/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1587132522603" />
+    <state x="2818" y="278" key="FileChooserDialogImpl/2048.0.1920.1040/0.0.2048.1112@2048.0.1920.1040" timestamp="1592312002462" />
     <state x="653" y="101" width="627" height="852" key="find.popup" timestamp="1587464543870">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
